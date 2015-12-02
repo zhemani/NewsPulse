@@ -1,0 +1,117 @@
+body {
+    font-family: 'Helvetica Neue','helvetica', 'arial';
+    font-weight: 300;
+    color:#545454;
+    background-color: whitesmoke;
+    min-width: 750px;
+}
+
+h1,h2,h3 {
+    font-weight: 300;
+}
+
+a{
+    text-decoration: none;
+    color: #545454;
+}
+
+a:hover {
+    color: cadetblue;
+    text-decoration: none;
+}
+
+header {
+
+    width: 300px;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: #333;
+    color: whitesmoke;
+    font-weight: 300;
+}
+
+header p {
+    font-weight: 300;
+    font-size: 23px;
+    padding-left: 8px;
+}
+
+#headwrap {
+    margin-top: 25px;
+    margin-left: 15px;
+    width: 270px;
+}
+
+#tags_input {
+    height: 100px;
+}
+
+#btn1 {
+    font-family: 'Helvetica Neue','helvetica', 'arial';
+    height: 30px;
+    width: 260px;
+    margin-left: 5px;
+    margin-top: 20px;
+    background-color: snow;
+    border-radius: 2px;
+    border-style: none;
+}
+
+
+#first_section {
+    margin-left: 300px;
+}
+
+
+#new_tags{
+    margin-left: 5px;
+    width: 260px;
+}
+
+header h2 {
+    margin-left: 20px;
+}
+
+#loading {
+    visibility: hidden;
+    margin-top: 30px;
+    margin-left: 70px;
+    height: 150px;
+}
+
+#legend {
+    width: 265px;
+    height: 100px;
+    margin-left: 25px;
+    margin-top: 30px;
+
+}
+
+.legend_row {
+
+}
+
+.legend_item {
+    display: inline-block;
+    width: 128px;
+    height: 40px;
+}
+
+
+.legend_color {
+    display: inline-block;
+}
+
+.legend_text {
+
+    display: inline-block;
+}
+
+.legend_text p {
+    font-size: 15px;
+    position: relative;
+    top: -10px;
+}
+
