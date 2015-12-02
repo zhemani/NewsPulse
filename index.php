@@ -36,15 +36,15 @@ if(strcmp(trim($tags), "") != 0) $noinput = false;
 
 
 $settings = array(
-    'oauth_access_token' => "124980145-g9l0E6Gc16WqmNtXZKp24EfnwXeMk8SLMGZgGHnb",
-    'oauth_access_token_secret' => "Q4AjGuVvSd1nzDOGaDtk2hNQsK3G9KQNKysohNyGNI51W",
-    'consumer_key' => "BTeBDWm1cbVvgbc7oEuiiFI7j",
-    'consumer_secret' => "RoVflZPzncdwikE2jRND9GJcdBANP0PhufLBOHDMJsbXJ9BK8i"
+    'oauth_access_token' => "",
+    'oauth_access_token_secret' => "",
+    'consumer_key' => "",
+    'consumer_secret' => ""
 );
 
 $tweetArray = array();
 
-$api_key= "c6537cb196c9154b50bdf6654978976b825dd1f1ac09a0ea6e0d6af2";
+$api_key= "";
 
 $textrazor = new TextRazor($api_key);
 
