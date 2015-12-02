@@ -1,0 +1,2 @@
+# NewsPulse
+NewsPulse uses Twitter's API to search major news stations from across the globe and displays tweets on a map in accordance to the location presented in the Tweet itself. In light of recent global events, we wanted to visually depict what news stories are being covered around the world and by which news stations. We felt this would give an idea as to which stories news agencies of various countries found most important to share with the public and societies in which they reported to and perhaps influenced.
